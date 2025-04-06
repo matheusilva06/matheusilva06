@@ -22,7 +22,7 @@ Esses são exercícios que desenvolvi enquanto estudo **POO com Java**. Não sã
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-silva-a7a59a2ab/)
 - 📧 matheus.s.souza06@gmail.com
